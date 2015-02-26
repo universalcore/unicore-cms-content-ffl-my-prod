@@ -1,0 +1,29 @@
+{
+  "subtitle": "", 
+  "description": "Breastfeeding helps mother and baby form a close, loving relationship. ", 
+  "language": "eng_GB", 
+  "title": "Breastfeeding helps mother and baby form a close, loving relationship", 
+  "primary_category": "1ea47579bccd4d0d85e0ffa5c3ce3cda", 
+  "created_at": "2015-02-26T04:40:36.602886+00:00", 
+  "featured_in_category": false, 
+  "modified_at": "2015-02-26T04:40:36.603225+00:00", 
+  "_version": {
+    "package_version": "0.3.7", 
+    "language_version": "2.7.6", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [], 
+  "id": null, 
+  "content": " - Newborn babies should be given to the mother to hold immediately\r\n   after delivery.\r\n\r\n - Newborn babies should have skin-to-skin contact with the mother\r\n   during breastfeeding.\r\n\r\n - The close contact and attention from the mother helps baby feel\r\n   secure and loved; important for their growth and development.\r\n\r\n - The father and other family members should encourage mother to rest\r\n   quietly while she breastfeeds the baby.\r\n\r\n", 
+  "source": null, 
+  "featured": false, 
+  "author_tags": [], 
+  "image": null, 
+  "published": null, 
+  "position": 0, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "breastfeeding-helps-mother-and-baby-form-close-loving-relationship", 
+  "uuid": "22dfe4d369c64a2b825c0fdf7582ef16"
+}
