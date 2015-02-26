@@ -1,0 +1,29 @@
+{
+  "subtitle": "", 
+  "description": "A HIV-positive mother should be counselled so she can decide the best feeding option for her baby and herself. ", 
+  "language": "eng_GB", 
+  "title": "A HIV-positive mother should be counselled so she can decide the best feeding option for her baby and herself ", 
+  "primary_category": "1ea47579bccd4d0d85e0ffa5c3ce3cda", 
+  "created_at": "2015-02-26T05:18:32.385559+00:00", 
+  "featured_in_category": false, 
+  "modified_at": "2015-02-26T05:18:32.385783+00:00", 
+  "_version": {
+    "package_version": "0.3.7", 
+    "language_version": "2.7.6", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [], 
+  "id": null, 
+  "content": "Women who are HIV-positive should be counselled by a trained healthcare worker on how to reduce the risk of passing HIV to their children during pregnancy, childbirth or breastfeeding. They should also be counselled and supported on how to get treatment and care for themselves. \r\n\r\n\r\nThe most appropriate infant feeding option for the child of an HIV-infected mother depends on individual circumstances.  A HIV-positive mother should know that: \r\n\r\n - if she breastfeeds exclusively during the first 6 months (giving no\r\n   other liquids, milks or foods, for the first 6 months), she reduces\r\n   the baby's risk of illness, malnutrition and death\r\n\r\n - if she uses breastmilk substitutes such as quality infant formula\r\n   exclusively she avoids the risk of HIV infection through breastmilk\r\n\r\n - shortening the duration of breastfeeding can reduce the risk of\r\n   transmitting the infection to the infant.\r\n\r\n - mixed feeding not only greatly increases the risk of transmitting HIV\r\n   to the baby in the first 6 months but also causes more illness, such\r\n   as diarrhoea and pneumonia, and malnutrition, and increases the risk\r\n   of death.\r\n\r\n\r\nA HIV-positive mother should receive regular counselling throughout the period of breastfeeding to help her determine whether she can provide her baby with a nutritionally adequate and safe diet without breastmilk. \r\n\r\nA new mother who does not know her HIV status should exclusively breastfeed her child for the first 6 months and continue breastfeeding for up to 2 years and beyond, in addition to feeding the child other nutritious foods and drinks. \r\n\r\nInfants confirmed as HIV-positive should be breastfed so they can receive the benefits of breastmilk.", 
+  "source": null, 
+  "featured": false, 
+  "author_tags": [], 
+  "image": null, 
+  "published": null, 
+  "position": 0, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "hiv-positive-mother-should-be-counselled-so-she-can-decide-best-feeding-option-her-baby-and-herself", 
+  "uuid": "e025612c0d204ceca9260653e17a2350"
+}
