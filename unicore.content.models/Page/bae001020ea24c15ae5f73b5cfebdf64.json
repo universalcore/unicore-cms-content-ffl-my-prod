@@ -1,0 +1,29 @@
+{
+  "subtitle": "", 
+  "description": "A mother who cannot breastfeed directly, can use a clean cup to feed her infant.", 
+  "language": "eng_GB", 
+  "title": "A mother who cannot breastfeed directly, can use a clean cup to feed her infant ", 
+  "primary_category": "1ea47579bccd4d0d85e0ffa5c3ce3cda", 
+  "created_at": "2015-02-26T05:13:58.576903+00:00", 
+  "featured_in_category": false, 
+  "modified_at": "2015-02-26T05:13:58.577098+00:00", 
+  "_version": {
+    "package_version": "0.3.7", 
+    "language_version": "2.7.6", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [], 
+  "id": null, 
+  "content": " - The best food for a baby who cannot be breastfed directly is milk\r\n   expressed from the mother's breast, given from a clean, open cup.\r\n\r\n - Cup feeding is safer than bottle feeding because the cup can be\r\n   easily cleaned with soap and water. \r\n\r\n - Cup feeding also provides some of the contact and stimulation the   \r\n   baby needs, since the person has to hold the baby.\r\n\r\n - Feeding with a cup does not cause problems with suckling at the\r\n   breast.\r\n\r\n - Even newborn babies can be fed with an open cup. If it is necessary\r\n   to feed a baby with a nutritionally adequate breastmilk substitute,\r\n   it should be fed to the baby by cup.\r\n\r\n", 
+  "source": null, 
+  "featured": false, 
+  "author_tags": [], 
+  "image": null, 
+  "published": null, 
+  "position": 0, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "mother-who-cannot-breastfeed-directly-can-use-clean-cup-feed-her-infant", 
+  "uuid": "bae001020ea24c15ae5f73b5cfebdf64"
+}
