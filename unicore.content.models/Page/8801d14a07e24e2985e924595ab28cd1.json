@@ -1,0 +1,29 @@
+{
+  "subtitle": "", 
+  "description": "Weight gain is the most important sign that a child is growing and developing well.", 
+  "language": "eng_GB", 
+  "title": "Weight gain is the most important sign that a child is growing and developing well", 
+  "primary_category": "6dab72d2d4c34cbfb4fe91df729cdbb0", 
+  "created_at": "2015-02-26T03:54:06.319401+00:00", 
+  "featured_in_category": false, 
+  "modified_at": "2015-02-26T03:54:06.319699+00:00", 
+  "_version": {
+    "package_version": "0.3.7", 
+    "language_version": "2.7.6", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [], 
+  "id": null, 
+  "content": " - A young child should grow and gain weight rapidly. From birth to age\r\n   2, children should be weighed regularly to assess growth.\r\n\r\n - If regular weighing shows that the child is not gaining weight, or\r\n   the parents or other caregivers see the child is not growing,\r\n   something is wrong. The child needs to be seen by a trained health\r\n   worker.\r\n\r\n - Very thin and/or swollen children need special medical care. They\r\n   should be taken to a trained health worker or health facility for\r\n   assessment and treatment.\r\n\r\n - A health check-up can also detect if a child is gaining weight too\r\n   fast for his or her age. This requires examining a child's weight in\r\n   relation to his or her height, which can determine if the child is\r\n   overweight.\r\n\r\n - If the child is underweight or overweight, it is important to examine\r\n   the child's diet and provide parents with advice on good nutrition.\r\n\r\n", 
+  "source": null, 
+  "featured": false, 
+  "author_tags": [], 
+  "image": null, 
+  "published": null, 
+  "position": 0, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "weight-gain-most-important-sign-child-growing-and-developing-well", 
+  "uuid": "8801d14a07e24e2985e924595ab28cd1"
+}
