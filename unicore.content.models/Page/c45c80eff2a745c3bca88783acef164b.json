@@ -1,0 +1,29 @@
+{
+  "subtitle": "", 
+  "description": "A child's life is in danger if she or he has several watery stools within an hour or if there is blood in the stool. Seek immediate medical attention. ", 
+  "language": "eng_GB", 
+  "title": "A child's life is in danger if she or he has several watery stools within an hour or if there is blood in the stool. Seek immediate medical attention", 
+  "primary_category": "532fd0a3a4ec412f9b5d7f52fcaf3787", 
+  "created_at": "2015-02-27T02:28:14.771847+00:00", 
+  "featured_in_category": false, 
+  "modified_at": "2015-02-27T02:28:14.772125+00:00", 
+  "_version": {
+    "package_version": "0.3.7", 
+    "language_version": "2.7.6", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [], 
+  "id": null, 
+  "content": "A child has diarrhoea when she or he passes 3 or more watery stools a day. The more the watery stools, the more dangerous the diarrhoea. \r\n\r\nDiarrhoea kills children by draining liquid from the body, which dehydrates the child. A child who has the following signs may have diarrhea or cholera. \r\n\r\n- passes several watery stools in an hour\r\n- passes blood in the stool\r\n- vomits frequently\r\n- has a fever\r\n- is extremely thirsty\r\n- does not want to drink and/or refuses to eat\r\n- has sunken eyes\r\n- looks weak or is lethargic\r\n- has diarrhoea for several days\r\n\r\nParents should **immediately** seek help from a trained health worker.\r\n\r\nIn the meantime, the child should be given ORS solution and/or other liquids, plus zinc.\r\n", 
+  "source": null, 
+  "featured": false, 
+  "author_tags": [], 
+  "image": null, 
+  "published": null, 
+  "position": 0, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "childs-life-danger-if-she-or-he-has-several-watery-stools-within-hour-or-if-there-blood-stool-seek-immediate-medical-attention", 
+  "uuid": "c45c80eff2a745c3bca88783acef164b"
+}
