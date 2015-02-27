@@ -1,0 +1,29 @@
+{
+  "subtitle": "", 
+  "description": "Breastmilk, vitamin A, and zinc supplements can reduce the risk of diarrhea.", 
+  "language": "eng_GB", 
+  "title": "Breastmilk, vitamin A, and zinc supplements can reduce the risk of diarrhea", 
+  "primary_category": "532fd0a3a4ec412f9b5d7f52fcaf3787", 
+  "created_at": "2015-02-27T02:44:14.303693+00:00", 
+  "featured_in_category": false, 
+  "modified_at": "2015-02-27T02:44:14.303896+00:00", 
+  "_version": {
+    "package_version": "0.3.7", 
+    "language_version": "2.7.6", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [], 
+  "id": null, 
+  "content": "Exclusive breastfeeding for the first 6 months of life, and continued breastfeeding after 6 months can reduce the risks associated with diarrhoea.  \r\n\r\nBreastmilk is the best source of liquid and food for a young child with diarrhoea. It is nutritious and clean, and helps fight illness and infections. It prevents dehydration and malnutrition and helps replace lost fluids. \r\n\r\nMothers are sometimes advised to give less breastmilk if a child has diarrhoea. This advice is wrong. Mothers should breastfeed more often than usual when the child has diarrhoea. \r\n\u2022\tImmunise your child against rotavirus (where recommended and available) to reduce risk of death from diarrhoea. \r\n\u2022\tVitamin A reduces the risk of diarrhoea. Foods that contain vitamin A include breastmilk, liver, fish, dairy products, orange or yellow fruits and vegetables, and green leafy vegetables.\r\n\u2022\tIncluding zinc as part of the treatment for diarrhoea for 10\u201314 days helps to reduce its severity and duration, and also protects the child from future diarrhoea episodes for up to 2 months. \r\n", 
+  "source": null, 
+  "featured": false, 
+  "author_tags": [], 
+  "image": null, 
+  "published": null, 
+  "position": 0, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "breastmilk-vitamin-and-zinc-supplements-can-reduce-risk-diarrhea", 
+  "uuid": "ca6097bbefcf4685a8973774d39abd37"
+}
