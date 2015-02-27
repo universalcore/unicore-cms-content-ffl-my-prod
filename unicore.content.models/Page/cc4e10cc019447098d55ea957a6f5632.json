@@ -1,0 +1,29 @@
+{
+  "subtitle": "", 
+  "description": "Children who are well nourished and fully immunised are less at risk of pneumonia.", 
+  "language": "eng_GB", 
+  "title": "Children who are well nourished and fully immunised are less at risk of pneumonia", 
+  "primary_category": "f2a53caa0a8943bca4901f2855338841", 
+  "created_at": "2015-02-27T01:53:58.093280+00:00", 
+  "featured_in_category": false, 
+  "modified_at": "2015-02-27T01:53:58.093559+00:00", 
+  "_version": {
+    "package_version": "0.3.7", 
+    "language_version": "2.7.6", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [], 
+  "id": null, 
+  "content": "Breastfeeding helps to protect babies from pneumonia and other illnesses. It is important to give breastmilk alone for the first 6 months of a baby's life.\r\n\r\nA child above 6 months of age should eat a variety of healthy foods and continue to breastfeed, to get the necessary nutrients to stay healthy and be less susceptible to respiratory infections and other illnesses. Examples of healthy foods are: fruits and vegetables (including green leafy vegetables), liver, red palm oil, dairy products, fish and eggs.\r\n\r\nSafe water and good hygiene practices help to reduce the number of respiratory infections and other illnesses, such as diarrhoea. Wash vegetables and fruits, keep food preparation surfaces clean, and wash hands with soap and water or with a substitute, such as ash and water.\r\n\r\nEvery child should complete a recommended series of immunisations. Early protection is critical; the immunisations in the first year and into the second year are especially important. The child will then be protected against measles, pertussis (whooping cough), tuberculosis and other respiratory illnesses, which can lead to pneumonia.\r\n\r\nParents and other caregivers should ensure that both girls and boys are equally provided with a varied and healthy diet and all immunisations. \r\n\r\nAsk your health worker for information on diets, hygiene and immunisations; and how these protect children against pneumonia and other illnesses.\r\n", 
+  "source": null, 
+  "featured": false, 
+  "author_tags": [], 
+  "image": null, 
+  "published": null, 
+  "position": 0, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "children-who-are-well-nourished-and-fully-immunised-are-less-risk-pneumonia", 
+  "uuid": "cc4e10cc019447098d55ea957a6f5632"
+}
