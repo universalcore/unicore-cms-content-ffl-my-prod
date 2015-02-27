@@ -4,14 +4,14 @@
   "language": "eng_GB", 
   "title": "A child should drink extra fluids along with regular food and fluid as soon as diarrhoea starts", 
   "primary_category": "532fd0a3a4ec412f9b5d7f52fcaf3787", 
-  "created_at": "2015-02-27T02:15:26.787106+00:00", 
+  "created_at": "2015-02-27T02:15:26+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-02-27T02:15:26.787280+00:00", 
+  "modified_at": "2015-02-27T02:30:36.841717+00:00", 
   "_version": {
     "package_version": "0.3.7", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
@@ -22,7 +22,7 @@
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 0, 
+  "position": 1, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "child-should-drink-extra-fluids-along-regular-food-and-fluid-soon-diarrhoea-starts", 
   "uuid": "3d3b4e80aa1746e0ad985d947204992c"
