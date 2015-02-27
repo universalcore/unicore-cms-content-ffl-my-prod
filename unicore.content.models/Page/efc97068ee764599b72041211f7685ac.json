@@ -1,0 +1,29 @@
+{
+  "subtitle": "", 
+  "description": "A child with a cough or cold should be kept warm and encouraged to eat and drink as much as possible. ", 
+  "language": "eng_GB", 
+  "title": "A child with a cough or cold should be kept warm and encouraged to eat and drink as much as possible", 
+  "primary_category": "f2a53caa0a8943bca4901f2855338841", 
+  "created_at": "2015-02-27T01:35:57.619413+00:00", 
+  "featured_in_category": false, 
+  "modified_at": "2015-02-27T01:35:57.619680+00:00", 
+  "_version": {
+    "package_version": "0.3.7", 
+    "language_version": "2.7.6", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [], 
+  "id": null, 
+  "content": "Babies and very young children who have a cough or cold should be kept covered and warm as they lose their body heat easily.\r\n\r\nChildren with coughs, colds, runny noses or sore throats who are breathing normally can be treated at home and will recover without medicines. \r\n\r\n- Keep the child warm, but not overheated.\r\n\r\n- Give the child plenty to eat and drink. \r\n\r\n- Clear the nose of the child often, especially before the child eats or goes to sleep. \r\n\r\n- Let the child breathe water vapour from a bowl of hot water. Make certain the water is not too boiling hot. The child must be carefully supervised when breathing the water vapour.\r\n\r\n- If the child has a fever, sponge or bathe them with cool, not cold water. Ensure the child is well hydrated with additional fluids. Seek immediate medical attention.\r\n\r\n- Medicines should be used only if prescribed by a trained health worker.\r\n\r\n\r\nA child with a fever should be immediately checked by a trained medical professional. This is particularly important in areas where there is dengue and/or malaria. \r\n\r\nA breastfeeding mother should continue to breastfeed her child who has a cough or cold.  If the child cannot suckle, the breastmilk can be expressed into a clean cup to feed the child. Clear the baby's nose if it is blocked before putting the baby to the breast or feeding the baby breastmilk (or breastmilk substitute) from a cup.\r\n\r\nChildren who are 6 months of age or older should be encouraged to breastfeed, eat and drink frequently. When the illness is over, give the child extra nutritious foods every day until she or he is at least the same weight as before the illness.\r\n\r\nAvoid coughing, sneezing or spitting near children as coughs and colds spread easily. Cough or sneeze into your elbow or a tissue and dispose the tissue safely. Follow by washing your hands with soap to stop the spread of germs. ", 
+  "source": null, 
+  "featured": false, 
+  "author_tags": [], 
+  "image": null, 
+  "published": null, 
+  "position": 0, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "child-cough-or-cold-should-be-kept-warm-and-encouraged-eat-and-drink-much-possible", 
+  "uuid": "efc97068ee764599b72041211f7685ac"
+}
