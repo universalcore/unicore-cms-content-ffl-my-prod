@@ -1,0 +1,29 @@
+{
+  "subtitle": "", 
+  "description": "A child should drink extra fluids along with regular food and fluid as soon as diarrhoea starts.", 
+  "language": "eng_GB", 
+  "title": "A child should drink extra fluids along with regular food and fluid as soon as diarrhoea starts", 
+  "primary_category": "532fd0a3a4ec412f9b5d7f52fcaf3787", 
+  "created_at": "2015-02-27T08:24:18.453892+00:00", 
+  "featured_in_category": false, 
+  "modified_at": "2015-02-27T08:24:18.454306+00:00", 
+  "_version": {
+    "package_version": "0.3.7", 
+    "language_version": "2.7.6", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [], 
+  "id": null, 
+  "content": "Diarrhoea usually cures itself in 3-4 days with rehydration (drinking a lot of liquids). The real danger is the loss of liquid and nutrients from the child's body, which can cause dehydration and malnutrition.\r\n\r\n**It is not true** that drinking liquids makes diarrhoea worse. To **avoid dehydration**, a child with diarrhoea should be given drinks, including breastmilk, as often as possible. Drinking lots of liquids helps to replace the fluids lost during diarrhoea. \r\n\r\n**Recommended drinks** for a child with diarrhoea include:\r\n\r\n- breastmilk (mothers should breastfeed more often than usual)\r\n- oral rehydration salts (ORS) mixed with the proper amount of clean water \r\n- soups\r\n- rice water\r\n- fresh fruit juices\r\n- coconut water\r\n- clean water from a safe source \r\n- If there is a possibility the water is not clean and safe to drink, it should be purified by boiling, filtering, adding chlorine or disinfecting with sunlight in accordance with information provided by a trained health worker or extension agent.\r\n\r\nChildren not breastfeeding should drink the following amounts of liquids every time a watery stool is passed:\r\n\r\n- **child below 2 years:** between 1/4 and 1/2 of a large (250-millilitre) cup\r\n- **child 2 years or older:** between 1/2 and 1 whole large (250-millilitre) cup\r\n\r\nIf the child vomits, wait 10 minutes before slowly giving the child the drink again, small sips at a time.\r\n\r\nThe child should drink extra liquids in addition to regular food and drinks, until the diarrhoea stops.\r\n\r\nDrinks should be given from a clean cup. A feeding bottle should not be used. It is difficult to clean bottles completely, and unclean bottles can contain germs that cause diarrhoea.\r\n\r\nDiarrhoea usually stops after three or four days. If it lasts longer, seek immediate medical help.", 
+  "source": null, 
+  "featured": false, 
+  "author_tags": [], 
+  "image": null, 
+  "published": null, 
+  "position": 0, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "child-should-drink-extra-fluids-along-regular-food-and-fluid-soon-diarrhoea-starts", 
+  "uuid": "c7077a97191e48edb4c211867a7ef055"
+}
