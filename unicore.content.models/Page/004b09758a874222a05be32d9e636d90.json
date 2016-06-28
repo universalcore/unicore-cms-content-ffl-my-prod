@@ -1,0 +1,29 @@
+{
+  "subtitle": "", 
+  "description": "Background: Instantaneous Velocity", 
+  "language": "eng_GB", 
+  "title": "backgroundVelocity", 
+  "primary_category": "9535f31535564355ba55c5732aec03e6", 
+  "created_at": "2015-01-19T10:34:19+00:00", 
+  "featured_in_category": false, 
+  "modified_at": "2015-01-19T10:34:19+00:00", 
+  "_version": {
+    "package_version": "1.4.4", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [], 
+  "id": null, 
+  "content": "**Instantaneous Velocity**\r\n\r\nThe approach of shrinking X to zero was used by Newton in the development of his Classical Mechanics. The main idea is the concept of velocity and speed. Indeed, assume you are traveling from point A to point B, what is the average velocity during the trip? The average velocity is just a slope, where change in Y is distance from A to B and change in X is time to get from A to B. It is given by\r\n\r\n![eqn 1](http://thumbor.unicore.io/AzsPokpgxWmu7kpkxzMxfbkDfys=/91a228d7a2d749e2a58f998e24515803)\r\n\r\nIf we now assume that A and B are very close to each other, we get close to what is called the instantaneous velocity, which is literally the derivative of motion. Of course, if A and B are close to each other, then the time it takes to travel from A to B will also be small. Indeed, assume that at time t=a, we are at A. If the time elapsed to get to B is [Delta T], then we will be at B at time [eqn] . If  is the distance from A to B, then the average velocity, or slope, is \r\n\r\n![eqn 2](http://thumbor.unicore.io/sjhVkGnkQxQ94cayfS5vWS4JWjQ=/9df0f74b189a44ecb3acc4832e968529)\r\n\r\nThe instantaneous velocity (at A), or derivative, will be found when [deltaT] gets smaller and smaller. Here we naturally run into the concept of limit and this is where the derivative comes from. Indeed, we have \r\n\r\n![eqn 3](http://thumbor.unicore.io/SWokU9-k-kvZtdxB4oIH3jtrbEE=/d639a48edbd04a3ca7b2866ed2b30460)\r\n\r\nIf f(t) describes the position at time t, then [eqn] . In this case, we have\r\n\r\n![eqn 4](http://thumbor.unicore.io/uECltdy-i4fkGwr2YSieoDhk8xw=/7c4c644b3f3c450ab63f6c387ee1da83)", 
+  "source": null, 
+  "featured": false, 
+  "author_tags": [], 
+  "image": null, 
+  "published": null, 
+  "position": 3, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "backgroundvelocity", 
+  "uuid": "004b09758a874222a05be32d9e636d90"
+}
